@@ -24,7 +24,7 @@ Savannah Kimball was the soul team member working on this portfolio.
 
 The portfolio should be accessed online with a computer. 
 
-The portfolio website can be found through this link: <https://savannahbrookek-tech.github.io/Portfolio-Final/> 
+The [portfolio website](https://savannahbrookek-tech.github.io/Portfolio-Final/) can be found through here. 
 
 #### Media Credits
 
