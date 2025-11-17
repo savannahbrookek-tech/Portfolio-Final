@@ -16,7 +16,15 @@ This repository is structured into three main pages:
 
 From there, the repository includes a style.md folder explaining my stylistic choices and how they were made.
 
+#### Team Members
+
+Savannah Kimball was the soul team member working on this portfolio.
+
 ### Viewing
 
-The portfolio website can be accessed through this link: <https://savannahbrookek-tech.github.io/Portfolio-Final/> 
+The portfolio should be accessed online with a computer. 
+
+The portfolio website can be found through this link: <https://savannahbrookek-tech.github.io/Portfolio-Final/> 
+
+#### Media Credits
 
