@@ -8,6 +8,8 @@ For the colors, I focused on pinks and reds because I often feel that a sort of 
 
 ### Layout
 
+I kept my name and bio first on the page to act as a sort of introduction. Why would anyone be interested in seeing my work if they don't even know who I am? Then I placed my navigation links below that to show my work, followed by my artistic images at the bottom because, while they may not provide additional practical information, they add to the overall aesthetic and look of the website.
+
 ### Voice
 
 I tried to keep my voice informal but clear for this portfolio, as again, I feel like that reflects me best. I didn't want to add too much or too little text when writing my content, so I opted for something in the middle.
