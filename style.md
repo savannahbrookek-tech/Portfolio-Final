@@ -16,6 +16,8 @@ I tried to keep my voice informal but clear for this portfolio, as again, I feel
 
 ### Format
 
+For the format, I wanted to make sure the words were easily big enough to see, and that the difference between headings and paragraphs were clear enough. This is why I made the headings bigger in general, but in a way that still matched one another.
+
 ### Notes
 
 Images were always accompanied by alternate text for accessability purposes. 
