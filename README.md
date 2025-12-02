@@ -28,3 +28,4 @@ The [portfolio website](https://savannahbrookek-tech.github.io/Portfolio-Final/)
 
 #### Media Credits
 
+Main portfolio images were drawn by me. Project images were taken from screenshots of the Spongebob TV show.
