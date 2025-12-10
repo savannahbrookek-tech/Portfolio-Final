@@ -2,11 +2,11 @@
 
 The purpose of this website is to showcase the progress I have made in this class over the course of the semester. It will allow me to put my coding skills to use as I combine them into this final project.
 
-#### Technologies
+## Technologies
 
 The technologies used in for this page include HTML, CSS, and Markdown
 
-#### Structure
+## Structure
 
 This repository is structured into three main pages:
 
@@ -16,16 +16,16 @@ This repository is structured into three main pages:
 
 From there, the repository includes a style.md folder explaining my stylistic choices and how they were made.
 
-#### Team Members
+## Team Members
 
 Savannah Kimball was the soul team member working on this portfolio.
 
-### Viewing
+## Viewing
 
 The portfolio should be accessed online with a computer. 
 
 The [portfolio website](https://savannahbrookek-tech.github.io/Portfolio-Final/) can be found through here. 
 
-#### Media Credits
+## Media Credits
 
 Main portfolio images were drawn by me. Project images were taken from screenshots of the Spongebob TV show.
