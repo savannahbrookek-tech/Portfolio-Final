@@ -4,7 +4,7 @@ Overall, my stylistic choices focused mainly on allowing for creativity while al
 
 ## Colors/Images
 
-For the colors, I focused on pinks and reds because I often feel that a sort of 'Valentine's Day' aesthetic fits my personality well. This is also why I used so much imagery of hearts when drawing the art for my portfolio to create this sort of love-core look.The colors I used were 
+For the colors, I focused on pinks and reds because I often feel that a sort of 'Valentine's Day' aesthetic fits my personality well. This is also why I used so much imagery of hearts when drawing the art for my portfolio to create this sort of love-core look. The colors I used were rgb(252, 213, 233) for the pink background color and rgb(122, 1, 1) for the dark red text color.
 
 ## Layout
 
@@ -16,7 +16,7 @@ I tried to keep my voice informal but clear for this portfolio, as again, I feel
 
 ## Format
 
-For the format, I wanted to make sure the words were easily big enough to see, and that the difference between headings and paragraphs were clear enough. This is why I made the headings bigger in general, but in a way that still matched one another.
+For the format, I wanted to make sure the words were easily big enough to see, and that the difference between headings and paragraphs were clear enough. This is why I made the headings bigger in general, but in a way that still matched one another. I kept the default font because I felt it would be most simple and easy to read. I didn't want the font to be too distracting from everything else on the page.
 
 ## Notes
 
